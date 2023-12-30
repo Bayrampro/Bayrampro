@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bayrampro
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning django framework 
+- 💻 I wanna be cool IT specialist on the future
+- 📫 How to reach me annakurbanov02@mail.ru
