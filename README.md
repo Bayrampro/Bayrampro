@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Bayrampro
-- 👀 I’m interested in web developing and mobile developing
-- 🌱 I’m currently learning flutter 
-- 💻 I wanna be cool IT specialist on the future
-- 📫 How to reach me annakurbanov02@mail.ru
+Telegram: @byprogger
+Flutter and Backend developer
