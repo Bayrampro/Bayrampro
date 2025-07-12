@@ -41,7 +41,7 @@ A Flutter project focused on learning the Russian language interactively, using 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bayram-annagurbanov-950024343)
+- [LinkedIn](https://www.linkedin.com/in/bayram-annagurbanov-flutter)
 - [WhatsApp](https://wa.me/qr/QGE3J6BZGJUYC1)
 - Telegram: [@byprogger](https://t.me/byprogger)
 
