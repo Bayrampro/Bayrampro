@@ -30,15 +30,6 @@ I'm a passionate Flutter developer focused on building scalable, maintainable, a
 
 ---
 
-## 📱 My main projects
-
-### [Moshin Mobile](https://github.com/moshin-rents/moshin-mobile)
-Cross-platform rental platform mobile app with robust networking, state management, and a clean architecture foundation.
-
-### [Learn Russia](https://github.com/Bayrampro/learn_russia)
-A Flutter project focused on learning the Russian language interactively, using modern state management and offline-first data storage.
-
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bayram-annagurbanov-flutter)
